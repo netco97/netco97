@@ -1,5 +1,5 @@
 
--  I’m currently learning react.js & node.js...
+react.js / node.js 공부중
 
 
 <!---

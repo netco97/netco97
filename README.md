@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> &nbsp
 </br>
 <h3 align="center"><b>🛠 Tech being learned 🛠</b></h3>
+</br>
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/></a> &nbsp
 

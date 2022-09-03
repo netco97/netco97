@@ -16,9 +16,14 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> &nbsp
-<br>
+</br>
+</br>
+#
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=netco97&show_icons=true&theme=radical)
+<div align="center">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=netco97&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netco97&layout=compact&theme=tokyonight)
+</div>
 
 <!---
 netco97/netco97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
